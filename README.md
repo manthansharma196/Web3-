@@ -2,6 +2,8 @@
 
 A blockchain security toolkit for safer Web3 interactions. Analyze wallets, decode transactions, and detect phishing — all with a real-time **0–100 risk scoring** engine.
 
+By Krunal Chaudhari and Manthan Sharma
+
 ## Features
 
 - **👛 Wallet Risk Scanner** — Analyze any Ethereum address for scam interactions, dust attacks, and suspicious activity
